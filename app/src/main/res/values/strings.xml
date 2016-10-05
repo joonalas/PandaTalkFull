@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Panda Talk</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="hint_username">Type user name here</string>
+    <string name="hint_message">Type a message</string>
+
+    <string name="drawer_title">Authors</string>
+    <string name="drawer_description">
+        Group: ICT15-M - 2016\n
+        \n
+        Course: TX00CD46-3004\n
+        \n
+        Project: Mobile Application: Chat Server\n
+        \n
+        Project Name: Panda Talk\n
+        \n
+        Instructors:\n
+            \tMerja Bauters\n
+            \tPeter Hjort\n
+            \tJarkko Vuori\n
+            \tJaakko Pitkänen\n
+            \tBruk Yirdaw\n
+        \n
+        Members:\n
+            \tJoonas Lassila\n
+            \tNiko Hölttä\n
+            \tLy Hoang\n
+    </string>
+
+</resources>

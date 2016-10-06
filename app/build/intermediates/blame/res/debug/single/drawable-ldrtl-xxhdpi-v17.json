@@ -1,26 +1,14 @@
 [
     {
-        "merged": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

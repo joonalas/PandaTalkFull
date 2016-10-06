@@ -1,48 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="21"
+    api-level="24"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="30695111122705"
-    token="832337426771286824"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1093581869837754"
+    token="2105320106492126534"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="6397" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="2024" />
     <task
         name="verifier"
-        duration="0" />
+        duration="436" />
+
+    <artifact
+        location="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="23048796471757"
+        timestamp="1093581869837754"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Bamboo\AndroidStudioProjects\PandaTalk\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="29858994700195"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Bamboo\AndroidStudioProjects\PandaTalk\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Bamboo\AndroidStudioProjects\PandaTalk\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Bamboo\AndroidStudioProjects\PandaTalk\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="30695111122705"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

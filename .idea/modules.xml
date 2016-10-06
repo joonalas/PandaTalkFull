@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PandaTalk.iml" filepath="$PROJECT_DIR$/PandaTalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PandaTalkFull.iml" filepath="$PROJECT_DIR$/PandaTalkFull.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

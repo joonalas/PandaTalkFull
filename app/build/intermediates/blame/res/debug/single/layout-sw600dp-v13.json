@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/home/joonas/Downloads/PandaTalk/C:\\Users\\Bamboo\\AndroidStudioProjects\\PandaTalk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/home/joonas/Downloads/PandaTalk/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

@@ -883,6 +883,7 @@ int layout user_chat_bubble 0x7f040039
 int menu activity_chat_screen_drawer 0x7f0d0000
 int menu chat_screen 0x7f0d0001
 int mipmap ic_launcher 0x7f030000
+int mipmap ic_panda 0x7f030001
 int string abc_action_bar_home_description 0x7f060000
 int string abc_action_bar_home_description_format 0x7f060001
 int string abc_action_bar_home_subtitle_description_format 0x7f060002

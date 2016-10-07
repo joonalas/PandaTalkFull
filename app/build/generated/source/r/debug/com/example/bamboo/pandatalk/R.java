@@ -2624,21 +2624,22 @@ containing a value of this type.
         public static final int design_fab_background=0x7f020058;
         public static final int design_ic_visibility=0x7f020059;
         public static final int design_snackbar_background=0x7f02005a;
-        public static final int ic_menu_black_24dp=0x7f02005b;
-        public static final int ic_menu_camera=0x7f02005c;
-        public static final int ic_menu_gallery=0x7f02005d;
-        public static final int ic_menu_manage=0x7f02005e;
-        public static final int ic_menu_send=0x7f02005f;
-        public static final int ic_menu_share=0x7f020060;
-        public static final int ic_menu_slideshow=0x7f020061;
-        public static final int login_background=0x7f020062;
-        public static final int login_button=0x7f020063;
-        public static final int logout_button=0x7f020064;
-        public static final int navigation_empty_icon=0x7f020065;
-        public static final int notification_template_icon_bg=0x7f020069;
-        public static final int panda=0x7f020066;
-        public static final int send_button=0x7f020067;
-        public static final int side_nav_bar=0x7f020068;
+        public static final int ic_arrow_back_black_24dp=0x7f02005b;
+        public static final int ic_menu_black_24dp=0x7f02005c;
+        public static final int ic_menu_camera=0x7f02005d;
+        public static final int ic_menu_gallery=0x7f02005e;
+        public static final int ic_menu_manage=0x7f02005f;
+        public static final int ic_menu_send=0x7f020060;
+        public static final int ic_menu_share=0x7f020061;
+        public static final int ic_menu_slideshow=0x7f020062;
+        public static final int login_background=0x7f020063;
+        public static final int login_button=0x7f020064;
+        public static final int logout_button=0x7f020065;
+        public static final int navigation_empty_icon=0x7f020066;
+        public static final int notification_template_icon_bg=0x7f02006a;
+        public static final int panda=0x7f020067;
+        public static final int send_button=0x7f020068;
+        public static final int side_nav_bar=0x7f020069;
     }
     public static final class id {
         public static final int action0=0x7f0c0084;
@@ -2715,7 +2716,7 @@ containing a value of this type.
         public static final int list=0x7f0c0076;
         public static final int listMode=0x7f0c000b;
         public static final int list_item=0x7f0c0044;
-        public static final int login_button=0x7f0c0071;
+        public static final int login_button=0x7f0c0072;
         public static final int logout_button=0x7f0c009c;
         public static final int media_actions=0x7f0c0087;
         public static final int middle=0x7f0c0035;
@@ -2794,7 +2795,7 @@ containing a value of this type.
         public static final int useLogo=0x7f0c0014;
         public static final int user_chat_box=0x7f0c0077;
         public static final int user_chat_bubble=0x7f0c0094;
-        public static final int user_name=0x7f0c0072;
+        public static final int user_name=0x7f0c0071;
         public static final int view_offset_helper=0x7f0c000a;
         public static final int withText=0x7f0c003a;
         public static final int wrap_content=0x7f0c0020;

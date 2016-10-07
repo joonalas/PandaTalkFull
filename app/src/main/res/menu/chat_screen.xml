@@ -12,6 +12,6 @@
         android:id="@+id/logout_button"
         android:orderInCategory="1"
         android:title="logout"
-        android:icon="@drawable/logout_button"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
         app:showAsAction="ifRoom"/>
 </menu>

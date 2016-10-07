@@ -12,9 +12,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Gravity;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
@@ -68,6 +70,26 @@ public class ChatScreen extends AppCompatActivity {
         userName = getIntent().getStringExtra(EXTRA_USERNAME);
 
         userText = (EditText) findViewById(R.id.user_chat_box);
+        userText.setHorizontallyScrolling(false);
+        userText.setMaxLines(3);
+        userText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+            @Override
+            public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                boolean handled = false;
+                if (actionId == EditorInfo.IME_ACTION_SEND) {
+                    if (!userText.getText().toString().isEmpty())
+                    {
+                        LoginScreen.hideSoftKeyboard(ChatScreen.this);
+                        //Toast.makeText(getApplicationContext(),"Send "+userText.getText().toString()+" to server", Toast.LENGTH_SHORT).show();
+                        dialog = userText.getText().toString();
+                        notifyServer();
+                        userText.setText("");
+                    }
+                    handled = true;
+                }
+                return handled;
+            }
+        });
 
         sendButton = (ImageButton) findViewById(R.id.send_button);
 

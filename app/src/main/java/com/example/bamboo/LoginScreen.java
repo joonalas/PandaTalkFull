@@ -13,6 +13,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
+import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageButton;
@@ -45,6 +46,27 @@ public class LoginScreen extends AppCompatActivity {
 
         FloatingActionButton button = (FloatingActionButton) findViewById(R.id.login_button);
         editText = (EditText) findViewById(R.id.user_name);
+        editText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+            @Override
+            public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                boolean handled = false;
+                if (actionId == EditorInfo.IME_ACTION_DONE) {
+                    if (editText.getText().toString().isEmpty())
+                    {
+                        Toast.makeText(getApplicationContext(),"Please input username", Toast.LENGTH_SHORT).show();
+                    }
+                    else
+                    {
+                        userName = editText.getText().toString();
+                        notifyServer();
+                        startChatScreen();
+                    }
+                    handled = true;
+                }
+                return handled;
+            }
+        });
+
 
         //Set up the elements so that when tap screen, editext will get close
         setupUI(findViewById(R.id.activity_login_screen));

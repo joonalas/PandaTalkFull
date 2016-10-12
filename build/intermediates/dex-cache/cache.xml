@@ -3,165 +3,165 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1e9514aa3f70f356593b8ac6a1d846a361286226.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_19f4497b7eff9d00a3edeb43f5d0038dcb00b346.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_9922d95acec98d274d99c7df066e6f81b6847339.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d375b6cdc187acdc25af2ec09d0a4c57c3bea6a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c9f1de74c82cc687bc34d894fc26318b03c33051.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_82b74bdb318dca2d30e0421aeca380df8c80adac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4dfdeccc86bd6caf9764f5dc4597b3027bb65a14.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8cc60c0e8bebfa0ac032206e99acb40f36bf1a90.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_bcfb7158a5ae1f49e8fd6650e05f45fde6073122.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_da1e01a74bee077e3dc6e676e707174ef5bb0ebb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f4bdae24d0b671b88bc0965553fb4fdc2bf71e77.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6b22ed2531e724528b4a9124eb18963ec91d613a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_32efd0c17364baebae0def88593218c8fed5d394.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7ca53979a92309bc11836dd040876a012bb3e78f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_97f88ad67468e5c2540291445944a32c45f1905e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a8aae05e340ba217856cae0d78b0137879fc077f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_76549b41637b4202e2fcd68f726914cca178f923.jar" />
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_bd13326bbf5bef135f2e5ea577b5e9e98ba75bdb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_111e58db9becd80dad4f9c95392abaea542378e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_2cd8145890782f7a19dfbba77f595b2e5d85428d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6e2df34bfdd5ff3b0859b1fc1021721bdf9b87d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_59160f2ac2f6825608405ead0b128ae1a4c3c9ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1bd85eacb215b1ac65fd766fae3b92be0aec637e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b4f2489195c050dc8244ab29a68ee65a56649882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c5f4b4d8b02eb49cbe3820fa41e45bd6d864129b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_62164656799387a3139a3aeb71b784a71b7f6048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8c9f81aee935f11a75eff1844abba13b39a0dc12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_71037776d2be2d0a5282fa07d257859ca0fd5f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_646e0f134a36eb3dd2e01d087c1d57773905cf0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_145a2f1bba92217dfe53999bb85ca8686b30fa7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d73bd37b69ef1d4c99fa54cdc7f21609fc9e02dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6510d2e7b6d248419eea8dc88414ae574cc6a492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="C:\Users\Joonas.Joonas.000\Documents\GitHub\PandaTalkFull\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_1defd549371e7234f04c070d68ad82fc4f0d31e9.jar" />
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_7022dbe84be55c4824e9ca8abdf9a6472d28eee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e46bd6530b0f5a45727a7630644935cf77a98cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8f7aa4a1c28ee2afdf0c3565c999450c89cb5fc5.jar" />
     </item>
 
 </items>

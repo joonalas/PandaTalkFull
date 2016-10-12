@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png",
-        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+        "merged": "/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_black_24dp.png",
+        "source": "/home/joonas/StudioProjects/PandaTalkFull/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_black_24dp.png",
-        "source": "C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_black_24dp.png"
+        "merged": "/home/joonas/StudioProjects/PandaTalkFull/C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png",
+        "source": "/home/joonas/StudioProjects/PandaTalkFull/C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/home/joonas/StudioProjects/PandaTalkFull/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_arrow_back_black_24dp.png",
+        "source": "/home/joonas/StudioProjects/PandaTalkFull/app/build/generated/res/pngs/debug/drawable-ldpi/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/home/joonas/StudioProjects/PandaTalkFull/C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_black_24dp.png",
+        "source": "/home/joonas/StudioProjects/PandaTalkFull/C:\\Users\\Joonas.Joonas.000\\Documents\\GitHub\\PandaTalkFull\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_black_24dp.png"
     }
 ]
